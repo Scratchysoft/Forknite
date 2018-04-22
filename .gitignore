@@ -14,7 +14,8 @@
 *.gch
 *.pch
 
-# Compiled Dynamic libraries
+# Compiled Dynamic 
+libraries
 *.so
 *.dylib
 *.dll
@@ -73,3 +74,4 @@ Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
